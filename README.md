@@ -55,7 +55,7 @@ int main() {
 
 ##OUTPUT
 
-/home/saniabahaar/os/ex2/Linux-Process-API-fork-wait-exec-/img/Screenshot at 2026-03-25 08-17-17.png
+<img width="687" height="345" alt="Screenshot 2026-03-25 131943" src="https://github.com/user-attachments/assets/852e8b41-4e9a-4596-883e-53d82a1f8aaa" />
 
 
 
@@ -132,10 +132,10 @@ int main() {
 ##OUTPUT
 
 
+<img width="743" height="462" alt="Screenshot 2026-03-25 132000" src="https://github.com/user-attachments/assets/ad6de654-e155-4f87-8c39-4990d3825d53" />
 
 
 
-/home/saniabahaar/os/ex2/Linux-Process-API-fork-wait-exec-/img/Screenshot at 2026-03-25 08-19-24.png
 
 
 
